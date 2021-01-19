@@ -10,7 +10,7 @@
     "module/index.js"
   ],
   "styles": [
-    "styles/dist/combat-enhancements.css"
+    "styles/combat-health-estimate.css"
   ],
   "languages": [
     {
