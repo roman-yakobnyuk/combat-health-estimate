@@ -19,7 +19,7 @@
       "path": "lang/en.json"
     }
   ],
-  "url": "https://gitlab.com/asacolips-projects/foundry-mods/combat-enhancements",
-  "manifest": "https://gitlab.com/asacolips-projects/foundry-mods/combat-enhancements/raw/master/module.json",
-  "download": "https://gitlab.com/asacolips-projects/foundry-mods/combat-enhancements/-/archive/0.1.8/combat-enhancements-master.zip"
+  "url": "https://github.com/roman-yakobnyuk/combat-health-estimate",
+  "manifest": "https://raw.githubusercontent.com/roman-yakobnyuk/combat-health-estimate/master/module.json",
+  "download": "https://github.com/roman-yakobnyuk/combat-health-estimate/archive/0.0.1.zip"
 }
